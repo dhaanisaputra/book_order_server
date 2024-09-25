@@ -1,0 +1,9 @@
+[
+  {
+    "email": "admin@gmail.com",
+    "password": "$2y$12$usgM0rNjYl3ATJEPiQnN0uvzsKabm/lsdlXWQWzMdEWuCA.P3xISW",
+    "first_name": "John",
+    "last_name": "Ave",
+    "role": "ADMIN"
+  }
+]
